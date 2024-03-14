@@ -1,0 +1,8 @@
+[submodule "public1"]
+	path = public1
+	url = git@github.com:VISimonova/VISimonova.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:VISimonova/VISimonova.github.io.git
+	branch = main

@@ -50,41 +50,41 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Hard-skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Math
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 65
+        icon: calculator
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: English
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book
+        icon_pack: fas
+      - name: Swimming
+        description: ''
+        percent: 100
+        icon: swimmer
+        icon_pack: fas
+      - name: Snowboarding
+        description: ''
+        percent: 90
+        icon: snowboarding
         icon_pack: fas
 
 # Social/Academic Networking
@@ -95,21 +95,31 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://elibrary.ru/project_user_office.asp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/VISimonova
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://www.academia.edu/
+  - icon: archive
+    icon_pack: fab
+    link: https://arxiv.org/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
